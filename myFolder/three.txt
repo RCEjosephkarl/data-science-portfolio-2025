@@ -1,1 +1,2 @@
 three
+# The file is included in the gitignore scope
