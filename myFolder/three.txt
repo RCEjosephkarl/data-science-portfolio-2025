@@ -1,2 +1,3 @@
 three
-# The file is included in the gitignore scope
+# The file is not  included in the gitignore scope
+The .py files are in the gitignore scope
